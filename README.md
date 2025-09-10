@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enoch-015
-- 👀 I’m interested in ML and App dev
-- 🌱 I’m currently learning ML
+- 👀 AI/ML enthuaist, excited about building scalable AI solutions
+- 🌱 AI/ML Engineer (from Data Science to MLops) and now agentic ai system architect
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me oshinfowokan.oluwaseyifunmi@lmu.edu.ng
 
